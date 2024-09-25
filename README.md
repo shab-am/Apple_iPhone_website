@@ -49,16 +49,19 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/YourRepo/iphone-clone.git
 cd iphone-clone
+```
 
 ### Install the dependencies by running
 
 ```bash
 npm install
+```
 
 ### Start the development server
 
 ```bash
 npm run dev
+```
 
 Then open your browser and navigate to http://localhost:5173 to view the website.
 
