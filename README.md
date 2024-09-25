@@ -49,3 +49,21 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/YourRepo/iphone-clone.git
 cd iphone-clone
+
+### Install the dependencies by running
+
+```bash
+npm install
+
+### Start the development server
+
+```bash
+npm run dev
+
+Then open your browser and navigate to http://localhost:5173 to view the website.
+
+---
+
+## 🙌 Acknowledgments
+
+A special thanks to JavaScript Mastery for the original concept and tutorial, which guided me in building this project. Their content is incredibly valuable for anyone looking to improve their web development skills!
